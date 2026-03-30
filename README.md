@@ -1,2 +1,4 @@
 # data-analysis-projects
-├── crypto-analysis    ├── sales-dashboard    ├── customer-segmentation
+├── crypto-analysis  
+├── sales-dashboard    
+├── customer-segmentation 
